@@ -1,0 +1,45 @@
+body {
+  background-color: #293251;
+}
+.container {
+  margin:0 auto;
+  background-color: yellow;
+  height: 600px;
+  width: 300px;
+  border-radius: 15px;
+}
+
+.app-title p {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+/*.app-title {
+  margin-top: 20px;
+}*/
+
+.weather-icon {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.temperature-value {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.temperature-description {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
